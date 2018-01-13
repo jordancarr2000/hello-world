@@ -1,2 +1,3 @@
 # hello-world
-a new repository
+
+I'm trying to learn data science, and this is apparently part of that.
